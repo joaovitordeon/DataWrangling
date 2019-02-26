@@ -39,19 +39,28 @@ For this, in addition to the open Twitter data, we will use an API to collect mo
 
 *Here, we see that the number of puppers is much larger than the other 3 types*
 
+----
 
 ***- the correlation between number of retweets and favorites:***
-![ALT](/pics/img2.png "retweets vs favorites")<br>
+
+![ALT](/pics/img2.png "retweets vs favorites")
+
 *We noticed a good correlation (r = 0.86) between these two variables, which indicates that the more retweets, the more favorites this tweet will have*
 
+----
 
 ***- dog with the biggest rating numerator***
-![ALT](/pics/img3.png "biggest rating numerator")<br>
+
+![ALT](/pics/img3.png "biggest rating numerator")
+
 *Atticus is the name of the dog with the biggest rating_numerator(1776). He had 2637 retweets and 5379 favorites. What a style!*
 
+----
 
 ***- some avarage of posts***
-![ALT](/pics/img4.png "some metrics")<br>
+
+![ALT](/pics/img4.png "some metrics")
+
 *The average retweets per post is between 2000 and 3000, while average favorites per post is greater than 8000*
 
 
