@@ -34,7 +34,9 @@ For this, in addition to the open Twitter data, we will use an API to collect mo
 <br>
 
 ***- the number of occurrences of dog's life stages:***
-![ALT](/pics/img1.png "dogs's life stages count")<br>
+
+![ALT](/pics/img1.png "dogs's life stages count")
+
 *Here, we see that the number of puppers is much larger than the other 3 types*
 
 
