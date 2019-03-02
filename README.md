@@ -65,4 +65,5 @@ For this, in addition to the open Twitter data, we will use an API to collect mo
 
 
 <br>
-
+The complete report of these results is in `act_report.pdf`.
+<br>
